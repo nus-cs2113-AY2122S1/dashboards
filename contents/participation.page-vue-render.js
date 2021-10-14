@@ -6986,6 +6986,6 @@ with(this){return _c('span',{attrs:{"data-mb-slot-name":"_content"}},[_c('strong
 with(this){return _c('span',{attrs:{"data-mb-slot-name":"_content"}},[_c('strong',[_v("LumiNUS Quiz(zes)")]),_v(": percentage of correct answers: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("100%")]),_v(" (2/3 points) "),_c('span',{staticClass:"dimmed"},[_v("(excluding bonus questions, if any) (within early-submission window? No)")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Thu, 14 Oct 2021, 11:29:30 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Thu, 14 Oct 2021, 21:53:42 GMT+8]")])])])}
 }];
   
